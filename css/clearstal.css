@@ -1,0 +1,21 @@
+/*
+	Mods for Bootstrap 3
+ */
+
+.navbar-inverse {
+	background-color: transparent;
+	background-image: none;
+	border-color: transparent;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #fff;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+	color: #000;
+}
+
+[data-sizebackground=bokeh] {
+	background-image: url('../img/bokeh.jpg');
+}
